@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="bookres-icon">icons/book-res-icon.png</file>
+        <file>icons/car-icon-pink.png</file>
+        <file alias="customer-icon">icons/customer-icon.png</file>
+        <file alias="item-icon">icons/inventory-icon.png</file>
+        <file alias="reservation-icon">icons/res-icon.png</file>
+        <file alias="app-icon">icons/vintage-car-icon.png</file>
+    </qresource>
+</RCC>

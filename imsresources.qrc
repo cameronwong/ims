@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/book-res-icon.png</file>
+        <file>icons/car-icon-pink.png</file>
+        <file>icons/customer-icon.png</file>
+        <file>icons/customer-icon-2.png</file>
+        <file>icons/inventory-icon.png</file>
+        <file>icons/res-icon.png</file>
+        <file>icons/vintage-car-icon.png</file>
+    </qresource>
+</RCC>
